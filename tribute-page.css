@@ -1,0 +1,46 @@
+#main {
+	background-color: yellow;
+	font-family: Verdana, Arial, sans-serif;
+	padding-top: 50px;
+}
+
+#title {
+	text-align: center;
+	padding: 20px;
+	font-size: 50px;
+}
+
+#img-div {
+ 	width: 100%;
+}
+
+#image {
+  display: block;
+  max-width: 80%;
+  height: auto;
+  margin: auto;
+}
+
+#img-caption {
+	padding: 20px;
+	text-align: center;
+}
+
+#tribute-container {
+	width: 100%;
+	background-color: red;
+	border: 1px solid black;
+}
+
+#tribute-info {
+	display: block;
+	max-width: 60em;
+	padding: 25px 50px;
+	margin: auto;
+}
+
+#link-container {
+	width: 100%;
+	text-align: center;
+	padding: 5px;
+}
